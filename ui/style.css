@@ -1,6 +1,6 @@
 body {
     font-family: sans-serif;
-    background-color : blue;
+    background-color : red;
     margin-top: 60px;
 }
 
@@ -10,7 +10,7 @@ body {
 
 .text-big {
     font-size: 300%;
-    color: red;
+    color: green;
 }
 
 .bold {
@@ -21,9 +21,10 @@ body {
     height: 200px;
 }
 .container {
+              background-color: red;
               max-width: 800px;
               margin: 0 auto;
-              color: red;
+              color: green;
               font-family: sans-serif;
               padding-left: 20px;
               padding-right: 20px;
