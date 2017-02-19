@@ -10,7 +10,7 @@ body {
 
 .text-big {
     font-size: 300%;
-    color: green;
+    color: lime;
 }
 
 .bold {
@@ -24,7 +24,7 @@ body {
               background-color: red;
               max-width: 800px;
               margin: 0 auto;
-              color: green;
+              color: lime;
               font-family: sans-serif;
               padding-left: 20px;
               padding-right: 20px;
