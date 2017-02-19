@@ -1,6 +1,6 @@
 body {
     font-family: sans-serif;
-    background-color : red;
+    background-color : bisque;
     margin-top: 60px;
 }
 
@@ -21,7 +21,7 @@ body {
     height: 200px;
 }
 .container {
-              background-color: red;
+              background-color: bisque;
               max-width: 800px;
               margin: 0 auto;
               color: lime;
