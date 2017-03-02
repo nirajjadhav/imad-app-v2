@@ -9,7 +9,8 @@ body {
 }
 
 .text-big {
-    font-size: 500%;
+    text-align: center;
+    font-size: 800%;
     color: blue;
 }
 
