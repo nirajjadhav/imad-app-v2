@@ -9,7 +9,7 @@ body {
 }
 
 .text-big {
-    font-size: 300%;
+    font-size: 500%;
     color: lime;
 }
 
@@ -18,13 +18,13 @@ body {
 }
 
 .img-medium {
-    height: 200px;
+    height: 500px;
 }
 .container {
               background-color: bisque;
               max-width: 800px;
               margin: 0 auto;
-              color: lime;
+              color: blue;
               font-family: sans-serif;
               padding-left: 20px;
               padding-right: 20px;
